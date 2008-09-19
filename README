@@ -1,0 +1,11 @@
+Textmate Bundle for Webrat
+
+Just a simple collection of snippets.  The snippets are intended to be used by people using the RSPec Story bundle and/or the Cucumber bundle.
+
+How to install:
+mkdir -p ~/Library/Application\ Support/TextMate/Bundles/
+cd ~/Library/Application\ Support/TextMate/Bundles
+git clone git://github.com/bmabey/webrat-tmbundle.git Webrat.tmbundle
+In TextMate:
+From your drop down menu, select Bundles -> Bundle Editor -> Reload Bundles
+
