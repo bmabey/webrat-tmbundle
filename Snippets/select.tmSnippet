@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>clicks_link_within '${2:selector}', '${1:link_text}'</string>
+	<string>select '${1:option_text}'${3:, :from =&gt; '${2:dropdown}'}</string>
 	<key>name</key>
-	<string>clicks_link_within</string>
+	<string>select</string>
 	<key>scope</key>
 	<string>source.ruby.rspec.cucumber.steps,source.ruby.rspec.story.steps</string>
 	<key>tabTrigger</key>
-	<string>cli</string>
+	<string>sel</string>
 	<key>uuid</key>
-	<string>1C6CA323-A600-458E-943B-BC3030A302B2</string>
+	<string>D52608F7-0949-4DA9-A6D1-1B153A8FF189</string>
 </dict>
 </plist>

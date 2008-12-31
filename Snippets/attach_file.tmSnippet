@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>checks '${1:id_or_name_or_label}'</string>
+	<string>attach_file '${1:id_or_name_or_label}', "${2:path}"</string>
 	<key>name</key>
-	<string>checks</string>
+	<string>attach_file</string>
 	<key>scope</key>
 	<string>source.ruby.rspec.cucumber.steps,source.ruby.rspec.story.steps</string>
 	<key>tabTrigger</key>
-	<string>che</string>
+	<string>atf</string>
 	<key>uuid</key>
-	<string>AB1573AF-37ED-49C6-8D4C-1E59B36AEEA4</string>
+	<string>A7AB1D2B-E64F-459B-AD8B-10CC203F73CB</string>
 </dict>
 </plist>
