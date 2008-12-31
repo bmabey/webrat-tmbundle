@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>select '${1:option_text}'${3:, :from =&gt; '${2:dropdown}'}$4</string>
+	<string>select_time '${1:time_to_select_string_or_object}'${6:${3:, :from =&gt; '${2:dropdown}'}${5:, :id_prefix =&gt; '${4:fields_id_prefix}'}}$7</string>
 	<key>name</key>
-	<string>select</string>
+	<string>select_time</string>
 	<key>scope</key>
 	<string>source.ruby.rspec.cucumber.steps,source.ruby.rspec.story.steps</string>
 	<key>tabTrigger</key>
 	<string>sel</string>
 	<key>uuid</key>
-	<string>D52608F7-0949-4DA9-A6D1-1B153A8FF189</string>
+	<string>A355B998-3818-4E45-B449-2EB02F0CCB70</string>
 </dict>
 </plist>
