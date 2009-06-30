@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>click_button</string>
 	<key>scope</key>
-	<string>source.ruby.rspec.cucumber.steps,source.ruby.rspec.story.steps</string>
+	<string>source.ruby.rspec.cucumber.steps,source.ruby.rspec</string>
 	<key>tabTrigger</key>
 	<string>cli</string>
 	<key>uuid</key>
